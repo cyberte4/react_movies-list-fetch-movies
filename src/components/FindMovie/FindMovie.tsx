@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import './FindMovie.scss';
-
 import { getMovie } from '../../api';
 import { MovieData } from '../../types/MovieData';
 import { ResponseError } from '../../types/ReponseError';
